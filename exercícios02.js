@@ -11,6 +11,6 @@ else if (m>n || m>o) {
     alert (m+ " É o maior");
 }
 
-else{ (n>o || n>m) 
+else{ (n>o || n>m);
     alert (n+ " É o maior número entre eles");
 }
