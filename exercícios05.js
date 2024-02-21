@@ -2,7 +2,8 @@
 
 var Diasdomes = parseInt(prompt(" Quantos dias tem o seguinte mês:"));
 
-if (Diasdomes == Janeiro) {
+if (Diasdomes == "Janeiro") {
     alert("31 dias");
+} else if (Diasdomes == "Setembro"){
+    alert("30 dias");
 }
-else if 
